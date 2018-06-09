@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Updates</string>
+    <string name="main_link">https://raw.githubusercontent.com/unterwelt/Voodoo-Updater/master/main.xml</string>
+    
+    <string-array name="oonee">
+        <item>Every 1 hour</item>
+        <item>Every 3 hour</item>
+        <item>Every 6 hour</item>
+        <item>Every 12 hour</item>
+        <item>Every 24 hour</item>
+    </string-array>
+
+    <string-array name="three">
+        <item>Every 3 hour</item>
+        <item>Every 1 hour</item>
+        <item>Every 6 hour</item>
+        <item>Every 12 hour</item>
+        <item>Every 24 hour</item>
+    </string-array>
+
+    <string-array name="six">
+        <item>Every 6 hour</item>
+        <item>Every 1 hour</item>
+        <item>Every 3 hour</item>
+        <item>Every 12 hour</item>
+        <item>Every 24 hour</item>
+    </string-array>
+
+    <string-array name="twelve">
+        <item>Every 12 hour</item>
+        <item>Every 1 hour</item>
+        <item>Every 3 hour</item>
+        <item>Every 6 hour</item>
+        <item>Every 24 hour</item>
+    </string-array>
+
+    <string-array name="twentyfour">
+        <item>Every 24 hour</item>
+        <item>Every 1 hour</item>
+        <item>Every 3 hour</item>
+        <item>Every 6 hour</item>
+        <item>Every 12 hour</item>
+    </string-array>
+
+</resources>
